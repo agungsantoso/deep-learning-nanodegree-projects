@@ -10,17 +10,7 @@ A collection of projects on Deep Learning Nanodegree [PyTorch Scholarship Challe
 
 Contributions are always welcome!
 
-<!-- toc -->
-
-- [Project 1: Predicting Bike-Sharing Patterns](#project-1-predicting-bike-sharing-patterns)
-- [Project 2: Dog-Breed Classifier](#project-2-dog-breed-classifier)
-- [Project 3: Generate TV Scripts](#project-3-generate-tv-scripts)
-- [Project 4: Generate Faces](#project-4-generate-faces)
-- [Project 5: Deploying a Sentiment Analysis Model](#project-5-deploying-a-sentiment-analysis-model)
-
-<!-- tocstop -->
-
-## Project 1: Predicting Bike-Sharing Patterns
+## [Project 1: Predicting Bike-Sharing Patterns](https://github.com/agungsantoso/deep-learning-nanodegree-projects/tree/master/p1)
 
 ## Project 2: Dog-Breed Classifier
 
