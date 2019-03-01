@@ -12,7 +12,7 @@ Contributions are always welcome!
 
 ## [Project 1: Predicting Bike-Sharing Patterns](https://github.com/agungsantoso/deep-learning-nanodegree-projects/tree/master/p1)
 
-## Project 2: Dog-Breed Classifier
+## [Project 2: Dog-Breed Classifier](https://github.com/agungsantoso/deep-learning-nanodegree-projects/tree/master/p2)
 
 ## Project 3: Generate TV Scripts
 
