@@ -14,7 +14,7 @@ Contributions are always welcome!
 
 ## [Project 2: Dog-Breed Classifier](https://github.com/agungsantoso/deep-learning-nanodegree-projects/tree/master/p2)
 
-## Project 3: Generate TV Scripts
+## [Project 3: Generate TV Scripts](https://github.com/agungsantoso/deep-learning-nanodegree-projects/tree/master/p3)
 
 ## Project 4: Generate Faces
 
