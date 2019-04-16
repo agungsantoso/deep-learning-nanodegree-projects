@@ -16,6 +16,6 @@ Contributions are always welcome!
 
 ## [Project 3: Generate TV Scripts](https://github.com/agungsantoso/deep-learning-nanodegree-projects/tree/master/p3)
 
-## [Project 4: Generate Faces](https://github.com/agungsantoso/deep-learning-nanodegree-projects/tree/master/p3)
+## [Project 4: Generate Faces](https://github.com/agungsantoso/deep-learning-nanodegree-projects/tree/master/p4)
 
 ## Project 5: Deploying a Sentiment Analysis Model
