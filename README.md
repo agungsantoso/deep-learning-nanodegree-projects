@@ -18,4 +18,4 @@ Contributions are always welcome!
 
 ## [Project 4: Generate Faces](https://github.com/agungsantoso/deep-learning-nanodegree-projects/tree/master/p4)
 
-## Project 5: Deploying a Sentiment Analysis Model
+## [Project 5: Deploying a Sentiment Analysis Model](https://github.com/agungsantoso/deep-learning-nanodegree-projects/tree/master/p5)
